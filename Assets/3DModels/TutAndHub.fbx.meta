@@ -1,0 +1,1246 @@
+fileFormatVersion: 2
+guid: b625cf85272437a4084373315285ec2e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Canto
+    100002: Canto 1
+    100004: Canto 10
+    100006: Canto 11
+    100008: Canto 12
+    100010: Canto 13
+    100012: Canto 14
+    100014: Canto 15
+    100016: Canto 16
+    100018: Canto 17
+    100020: Canto 18
+    100022: Canto 19
+    100024: Canto 2
+    100026: Canto 20
+    100028: Canto 21
+    100030: Canto 22
+    100032: Canto 23
+    100034: Canto 24
+    100036: Canto 25
+    100038: Canto 26
+    100040: Canto 27
+    100042: Canto 28
+    100044: Canto 29
+    100046: Canto 3
+    100048: Canto 30
+    100050: Canto 31
+    100052: Canto 32
+    100054: Canto 33
+    100056: Canto 34
+    100058: Canto 35
+    100060: Canto 36
+    100062: Canto 37
+    100064: Canto 38
+    100066: Canto 39
+    100068: Canto 4
+    100070: Canto 40
+    100072: Canto 41
+    100074: Canto 42
+    100076: Canto 43
+    100078: Canto 44
+    100080: Canto 45
+    100082: Canto 46
+    100084: Canto 47
+    100086: Canto 48
+    100088: Canto 49
+    100090: Canto 5
+    100092: Canto 50
+    100094: Canto 51
+    100096: Canto 52
+    100098: Canto 53
+    100100: Canto 54
+    100102: Canto 55
+    100104: Canto 56
+    100106: Canto 57
+    100108: Canto 58
+    100110: Canto 59
+    100112: Canto 6
+    100114: Canto 60
+    100116: Canto 61
+    100118: Canto 62
+    100120: Canto 63
+    100122: Canto 64
+    100124: Canto 65
+    100126: Canto 66
+    100128: Canto 67
+    100130: Canto 68
+    100132: Canto 69
+    100134: Canto 7
+    100136: Canto 70
+    100138: Canto 71
+    100140: Canto 72
+    100142: Canto 73
+    100144: Canto 74
+    100146: Canto 75
+    100148: Canto 76
+    100150: Canto 77
+    100152: Canto 78
+    100154: Canto 79
+    100156: Canto 8
+    100158: Canto 80
+    100160: Canto 81
+    100162: Canto 82
+    100164: Canto 83
+    100166: Canto 84
+    100168: Canto 85
+    100170: Canto 86
+    100172: Canto 87
+    100174: Canto 88
+    100176: Canto 89
+    100178: Canto 9
+    100180: Canto 90
+    100182: Canto2
+    100184: Canto3
+    100186: Canto4
+    100188: Chao
+    100190: Duplicar
+    100192: Duplicar10
+    100194: Duplicar11
+    100196: Duplicar12
+    100198: Duplicar13
+    100200: Duplicar14
+    100202: Duplicar15
+    100204: Duplicar16
+    100206: Duplicar17
+    100208: Duplicar18
+    100210: Duplicar19
+    100212: Duplicar2
+    100214: Duplicar20
+    100216: Duplicar22
+    100218: Duplicar23
+    100220: Duplicar24
+    100222: Duplicar25
+    100224: Duplicar26
+    100226: Duplicar27
+    100228: Duplicar28
+    100230: Duplicar29
+    100232: Duplicar3
+    100234: Duplicar30
+    100236: Duplicar31
+    100238: Duplicar32
+    100240: Duplicar33
+    100242: Duplicar34
+    100244: Duplicar35
+    100246: Duplicar37
+    100248: Duplicar38
+    100250: Duplicar39
+    100252: Duplicar4
+    100254: Duplicar40
+    100256: Duplicar41
+    100258: Duplicar42
+    100260: Duplicar43
+    100262: Duplicar44
+    100264: Duplicar45
+    100266: Duplicar46
+    100268: Duplicar47
+    100270: Duplicar48
+    100272: Duplicar5
+    100274: Duplicar50
+    100276: Duplicar51
+    100278: Duplicar52
+    100280: Duplicar53
+    100282: Duplicar54
+    100284: Duplicar55
+    100286: Duplicar56
+    100288: Duplicar57
+    100290: Duplicar58
+    100292: Duplicar59
+    100294: Duplicar6
+    100296: Duplicar60
+    100298: Duplicar61
+    100300: Duplicar62
+    100302: Duplicar63
+    100304: Duplicar64
+    100306: Duplicar65
+    100308: Duplicar66
+    100310: Duplicar67
+    100312: Duplicar68
+    100314: Duplicar69
+    100316: Duplicar7
+    100318: Duplicar70
+    100320: Duplicar72
+    100322: Duplicar73
+    100324: Duplicar74
+    100326: Duplicar75
+    100328: Duplicar76
+    100330: Duplicar77
+    100332: Duplicar78
+    100334: Duplicar79
+    100336: Duplicar8
+    100338: Duplicar80
+    100340: Duplicar81
+    100342: Duplicar82
+    100344: Duplicar83
+    100346: Duplicar84
+    100348: Duplicar85
+    100350: Duplicar86
+    100352: Duplicar87
+    100354: Duplicar88
+    100356: Duplicar89
+    100358: Duplicar9
+    100360: Duplicar90
+    100362: Duplicar91
+    100364: Duplicar92
+    100366: Duplicar93
+    100368: Duplicar94
+    100370: Duplicar95
+    100372: Duplicar96
+    100374: Duplicar97
+    100376: Meio
+    100378: Meio 1
+    100380: Meio 10
+    100382: Meio 11
+    100384: Meio 12
+    100386: Meio 13
+    100388: Meio 14
+    100390: Meio 15
+    100392: Meio 16
+    100394: Meio 17
+    100396: Meio 18
+    100398: Meio 19
+    100400: Meio 2
+    100402: Meio 20
+    100404: Meio 21
+    100406: Meio 22
+    100408: Meio 23
+    100410: Meio 24
+    100412: Meio 25
+    100414: Meio 26
+    100416: Meio 27
+    100418: Meio 28
+    100420: Meio 29
+    100422: Meio 3
+    100424: Meio 30
+    100426: Meio 31
+    100428: Meio 32
+    100430: Meio 33
+    100432: Meio 34
+    100434: Meio 35
+    100436: Meio 36
+    100438: Meio 37
+    100440: Meio 38
+    100442: Meio 39
+    100444: Meio 4
+    100446: Meio 40
+    100448: Meio 41
+    100450: Meio 42
+    100452: Meio 43
+    100454: Meio 44
+    100456: Meio 45
+    100458: Meio 46
+    100460: Meio 47
+    100462: Meio 48
+    100464: Meio 49
+    100466: Meio 5
+    100468: Meio 50
+    100470: Meio 51
+    100472: Meio 52
+    100474: Meio 53
+    100476: Meio 54
+    100478: Meio 55
+    100480: Meio 56
+    100482: Meio 57
+    100484: Meio 58
+    100486: Meio 59
+    100488: Meio 6
+    100490: Meio 60
+    100492: Meio 61
+    100494: Meio 62
+    100496: Meio 63
+    100498: Meio 64
+    100500: Meio 65
+    100502: Meio 66
+    100504: Meio 67
+    100506: Meio 68
+    100508: Meio 7
+    100510: Meio 8
+    100512: Meio 9
+    100514: pCube1
+    100516: pCube2
+    100518: polySurface279
+    100520: polySurface286
+    100522: polySurface287
+    100524: polySurface288
+    100526: polySurface289
+    100528: polySurface290
+    100530: polySurface291
+    100532: polySurface292
+    100534: polySurface293
+    100536: polySurface294
+    100538: //RootNode
+    100540: Tutorial1
+    100542: Tutorial:Chao1
+    100544: Tutorial:Chao2
+    100546: Tutorial:Estrutura1
+    100548: Tutorial:Estrutura2
+    100550: Tutorial:polySurface10
+    100552: Tutorial:polySurface11
+    100554: Tutorial:polySurface12
+    100556: Tutorial:polySurface14
+    100558: Tutorial:polySurface5
+    100560: Tutorial:polySurface6
+    100562: Tutorial:polySurface8
+    100564: Tutorial:polySurface9
+    100566: Tutorial:Portao
+    100568: Tutorial:PortasDireita
+    100570: Tutorial:PortasEsquerda
+    100572: Tutorial:Teto
+    100574: Tutorial:Tutorial
+    400000: Canto
+    400002: Canto 1
+    400004: Canto 10
+    400006: Canto 11
+    400008: Canto 12
+    400010: Canto 13
+    400012: Canto 14
+    400014: Canto 15
+    400016: Canto 16
+    400018: Canto 17
+    400020: Canto 18
+    400022: Canto 19
+    400024: Canto 2
+    400026: Canto 20
+    400028: Canto 21
+    400030: Canto 22
+    400032: Canto 23
+    400034: Canto 24
+    400036: Canto 25
+    400038: Canto 26
+    400040: Canto 27
+    400042: Canto 28
+    400044: Canto 29
+    400046: Canto 3
+    400048: Canto 30
+    400050: Canto 31
+    400052: Canto 32
+    400054: Canto 33
+    400056: Canto 34
+    400058: Canto 35
+    400060: Canto 36
+    400062: Canto 37
+    400064: Canto 38
+    400066: Canto 39
+    400068: Canto 4
+    400070: Canto 40
+    400072: Canto 41
+    400074: Canto 42
+    400076: Canto 43
+    400078: Canto 44
+    400080: Canto 45
+    400082: Canto 46
+    400084: Canto 47
+    400086: Canto 48
+    400088: Canto 49
+    400090: Canto 5
+    400092: Canto 50
+    400094: Canto 51
+    400096: Canto 52
+    400098: Canto 53
+    400100: Canto 54
+    400102: Canto 55
+    400104: Canto 56
+    400106: Canto 57
+    400108: Canto 58
+    400110: Canto 59
+    400112: Canto 6
+    400114: Canto 60
+    400116: Canto 61
+    400118: Canto 62
+    400120: Canto 63
+    400122: Canto 64
+    400124: Canto 65
+    400126: Canto 66
+    400128: Canto 67
+    400130: Canto 68
+    400132: Canto 69
+    400134: Canto 7
+    400136: Canto 70
+    400138: Canto 71
+    400140: Canto 72
+    400142: Canto 73
+    400144: Canto 74
+    400146: Canto 75
+    400148: Canto 76
+    400150: Canto 77
+    400152: Canto 78
+    400154: Canto 79
+    400156: Canto 8
+    400158: Canto 80
+    400160: Canto 81
+    400162: Canto 82
+    400164: Canto 83
+    400166: Canto 84
+    400168: Canto 85
+    400170: Canto 86
+    400172: Canto 87
+    400174: Canto 88
+    400176: Canto 89
+    400178: Canto 9
+    400180: Canto 90
+    400182: Canto2
+    400184: Canto3
+    400186: Canto4
+    400188: Chao
+    400190: Duplicar
+    400192: Duplicar10
+    400194: Duplicar11
+    400196: Duplicar12
+    400198: Duplicar13
+    400200: Duplicar14
+    400202: Duplicar15
+    400204: Duplicar16
+    400206: Duplicar17
+    400208: Duplicar18
+    400210: Duplicar19
+    400212: Duplicar2
+    400214: Duplicar20
+    400216: Duplicar22
+    400218: Duplicar23
+    400220: Duplicar24
+    400222: Duplicar25
+    400224: Duplicar26
+    400226: Duplicar27
+    400228: Duplicar28
+    400230: Duplicar29
+    400232: Duplicar3
+    400234: Duplicar30
+    400236: Duplicar31
+    400238: Duplicar32
+    400240: Duplicar33
+    400242: Duplicar34
+    400244: Duplicar35
+    400246: Duplicar37
+    400248: Duplicar38
+    400250: Duplicar39
+    400252: Duplicar4
+    400254: Duplicar40
+    400256: Duplicar41
+    400258: Duplicar42
+    400260: Duplicar43
+    400262: Duplicar44
+    400264: Duplicar45
+    400266: Duplicar46
+    400268: Duplicar47
+    400270: Duplicar48
+    400272: Duplicar5
+    400274: Duplicar50
+    400276: Duplicar51
+    400278: Duplicar52
+    400280: Duplicar53
+    400282: Duplicar54
+    400284: Duplicar55
+    400286: Duplicar56
+    400288: Duplicar57
+    400290: Duplicar58
+    400292: Duplicar59
+    400294: Duplicar6
+    400296: Duplicar60
+    400298: Duplicar61
+    400300: Duplicar62
+    400302: Duplicar63
+    400304: Duplicar64
+    400306: Duplicar65
+    400308: Duplicar66
+    400310: Duplicar67
+    400312: Duplicar68
+    400314: Duplicar69
+    400316: Duplicar7
+    400318: Duplicar70
+    400320: Duplicar72
+    400322: Duplicar73
+    400324: Duplicar74
+    400326: Duplicar75
+    400328: Duplicar76
+    400330: Duplicar77
+    400332: Duplicar78
+    400334: Duplicar79
+    400336: Duplicar8
+    400338: Duplicar80
+    400340: Duplicar81
+    400342: Duplicar82
+    400344: Duplicar83
+    400346: Duplicar84
+    400348: Duplicar85
+    400350: Duplicar86
+    400352: Duplicar87
+    400354: Duplicar88
+    400356: Duplicar89
+    400358: Duplicar9
+    400360: Duplicar90
+    400362: Duplicar91
+    400364: Duplicar92
+    400366: Duplicar93
+    400368: Duplicar94
+    400370: Duplicar95
+    400372: Duplicar96
+    400374: Duplicar97
+    400376: Meio
+    400378: Meio 1
+    400380: Meio 10
+    400382: Meio 11
+    400384: Meio 12
+    400386: Meio 13
+    400388: Meio 14
+    400390: Meio 15
+    400392: Meio 16
+    400394: Meio 17
+    400396: Meio 18
+    400398: Meio 19
+    400400: Meio 2
+    400402: Meio 20
+    400404: Meio 21
+    400406: Meio 22
+    400408: Meio 23
+    400410: Meio 24
+    400412: Meio 25
+    400414: Meio 26
+    400416: Meio 27
+    400418: Meio 28
+    400420: Meio 29
+    400422: Meio 3
+    400424: Meio 30
+    400426: Meio 31
+    400428: Meio 32
+    400430: Meio 33
+    400432: Meio 34
+    400434: Meio 35
+    400436: Meio 36
+    400438: Meio 37
+    400440: Meio 38
+    400442: Meio 39
+    400444: Meio 4
+    400446: Meio 40
+    400448: Meio 41
+    400450: Meio 42
+    400452: Meio 43
+    400454: Meio 44
+    400456: Meio 45
+    400458: Meio 46
+    400460: Meio 47
+    400462: Meio 48
+    400464: Meio 49
+    400466: Meio 5
+    400468: Meio 50
+    400470: Meio 51
+    400472: Meio 52
+    400474: Meio 53
+    400476: Meio 54
+    400478: Meio 55
+    400480: Meio 56
+    400482: Meio 57
+    400484: Meio 58
+    400486: Meio 59
+    400488: Meio 6
+    400490: Meio 60
+    400492: Meio 61
+    400494: Meio 62
+    400496: Meio 63
+    400498: Meio 64
+    400500: Meio 65
+    400502: Meio 66
+    400504: Meio 67
+    400506: Meio 68
+    400508: Meio 7
+    400510: Meio 8
+    400512: Meio 9
+    400514: pCube1
+    400516: pCube2
+    400518: polySurface279
+    400520: polySurface286
+    400522: polySurface287
+    400524: polySurface288
+    400526: polySurface289
+    400528: polySurface290
+    400530: polySurface291
+    400532: polySurface292
+    400534: polySurface293
+    400536: polySurface294
+    400538: //RootNode
+    400540: Tutorial1
+    400542: Tutorial:Chao1
+    400544: Tutorial:Chao2
+    400546: Tutorial:Estrutura1
+    400548: Tutorial:Estrutura2
+    400550: Tutorial:polySurface10
+    400552: Tutorial:polySurface11
+    400554: Tutorial:polySurface12
+    400556: Tutorial:polySurface14
+    400558: Tutorial:polySurface5
+    400560: Tutorial:polySurface6
+    400562: Tutorial:polySurface8
+    400564: Tutorial:polySurface9
+    400566: Tutorial:Portao
+    400568: Tutorial:PortasDireita
+    400570: Tutorial:PortasEsquerda
+    400572: Tutorial:Teto
+    400574: Tutorial:Tutorial
+    2100000: lambert1
+    2100002: lambert2
+    2100004: Tutorial_lambert2
+    2300000: Canto
+    2300002: Canto 1
+    2300004: Canto 10
+    2300006: Canto 11
+    2300008: Canto 12
+    2300010: Canto 13
+    2300012: Canto 14
+    2300014: Canto 15
+    2300016: Canto 16
+    2300018: Canto 17
+    2300020: Canto 18
+    2300022: Canto 19
+    2300024: Canto 2
+    2300026: Canto 20
+    2300028: Canto 21
+    2300030: Canto 22
+    2300032: Canto 23
+    2300034: Canto 24
+    2300036: Canto 25
+    2300038: Canto 26
+    2300040: Canto 27
+    2300042: Canto 28
+    2300044: Canto 29
+    2300046: Canto 3
+    2300048: Canto 30
+    2300050: Canto 31
+    2300052: Canto 32
+    2300054: Canto 33
+    2300056: Canto 34
+    2300058: Canto 35
+    2300060: Canto 36
+    2300062: Canto 37
+    2300064: Canto 38
+    2300066: Canto 39
+    2300068: Canto 4
+    2300070: Canto 40
+    2300072: Canto 41
+    2300074: Canto 42
+    2300076: Canto 43
+    2300078: Canto 44
+    2300080: Canto 45
+    2300082: Canto 46
+    2300084: Canto 47
+    2300086: Canto 48
+    2300088: Canto 49
+    2300090: Canto 5
+    2300092: Canto 50
+    2300094: Canto 51
+    2300096: Canto 52
+    2300098: Canto 53
+    2300100: Canto 54
+    2300102: Canto 55
+    2300104: Canto 56
+    2300106: Canto 57
+    2300108: Canto 58
+    2300110: Canto 59
+    2300112: Canto 6
+    2300114: Canto 60
+    2300116: Canto 61
+    2300118: Canto 62
+    2300120: Canto 63
+    2300122: Canto 64
+    2300124: Canto 65
+    2300126: Canto 66
+    2300128: Canto 67
+    2300130: Canto 68
+    2300132: Canto 69
+    2300134: Canto 7
+    2300136: Canto 70
+    2300138: Canto 71
+    2300140: Canto 72
+    2300142: Canto 73
+    2300144: Canto 74
+    2300146: Canto 75
+    2300148: Canto 76
+    2300150: Canto 77
+    2300152: Canto 78
+    2300154: Canto 79
+    2300156: Canto 8
+    2300158: Canto 80
+    2300160: Canto 81
+    2300162: Canto 82
+    2300164: Canto 83
+    2300166: Canto 84
+    2300168: Canto 85
+    2300170: Canto 86
+    2300172: Canto 87
+    2300174: Canto 88
+    2300176: Canto 89
+    2300178: Canto 9
+    2300180: Canto 90
+    2300182: Canto2
+    2300184: Canto3
+    2300186: Canto4
+    2300188: Chao
+    2300190: Meio
+    2300192: Meio 1
+    2300194: Meio 10
+    2300196: Meio 11
+    2300198: Meio 12
+    2300200: Meio 13
+    2300202: Meio 14
+    2300204: Meio 15
+    2300206: Meio 16
+    2300208: Meio 17
+    2300210: Meio 18
+    2300212: Meio 19
+    2300214: Meio 2
+    2300216: Meio 20
+    2300218: Meio 21
+    2300220: Meio 22
+    2300222: Meio 23
+    2300224: Meio 24
+    2300226: Meio 25
+    2300228: Meio 26
+    2300230: Meio 27
+    2300232: Meio 28
+    2300234: Meio 29
+    2300236: Meio 3
+    2300238: Meio 30
+    2300240: Meio 31
+    2300242: Meio 32
+    2300244: Meio 33
+    2300246: Meio 34
+    2300248: Meio 35
+    2300250: Meio 36
+    2300252: Meio 37
+    2300254: Meio 38
+    2300256: Meio 39
+    2300258: Meio 4
+    2300260: Meio 40
+    2300262: Meio 41
+    2300264: Meio 42
+    2300266: Meio 43
+    2300268: Meio 44
+    2300270: Meio 45
+    2300272: Meio 46
+    2300274: Meio 47
+    2300276: Meio 48
+    2300278: Meio 49
+    2300280: Meio 5
+    2300282: Meio 50
+    2300284: Meio 51
+    2300286: Meio 52
+    2300288: Meio 53
+    2300290: Meio 54
+    2300292: Meio 55
+    2300294: Meio 56
+    2300296: Meio 57
+    2300298: Meio 58
+    2300300: Meio 59
+    2300302: Meio 6
+    2300304: Meio 60
+    2300306: Meio 61
+    2300308: Meio 62
+    2300310: Meio 63
+    2300312: Meio 64
+    2300314: Meio 65
+    2300316: Meio 66
+    2300318: Meio 67
+    2300320: Meio 68
+    2300322: Meio 7
+    2300324: Meio 8
+    2300326: Meio 9
+    2300328: pCube1
+    2300330: pCube2
+    2300332: polySurface279
+    2300334: polySurface286
+    2300336: polySurface287
+    2300338: polySurface288
+    2300340: polySurface289
+    2300342: polySurface290
+    2300344: polySurface291
+    2300346: polySurface292
+    2300348: polySurface293
+    2300350: polySurface294
+    2300352: Tutorial:Chao1
+    2300354: Tutorial:Chao2
+    2300356: Tutorial:Estrutura1
+    2300358: Tutorial:Estrutura2
+    2300360: Tutorial:polySurface10
+    2300362: Tutorial:polySurface11
+    2300364: Tutorial:polySurface12
+    2300366: Tutorial:polySurface14
+    2300368: Tutorial:polySurface5
+    2300370: Tutorial:polySurface6
+    2300372: Tutorial:polySurface8
+    2300374: Tutorial:polySurface9
+    2300376: Tutorial:Portao
+    2300378: Tutorial:PortasDireita
+    2300380: Tutorial:PortasEsquerda
+    2300382: Tutorial:Teto
+    3300000: Canto
+    3300002: Canto 1
+    3300004: Canto 10
+    3300006: Canto 11
+    3300008: Canto 12
+    3300010: Canto 13
+    3300012: Canto 14
+    3300014: Canto 15
+    3300016: Canto 16
+    3300018: Canto 17
+    3300020: Canto 18
+    3300022: Canto 19
+    3300024: Canto 2
+    3300026: Canto 20
+    3300028: Canto 21
+    3300030: Canto 22
+    3300032: Canto 23
+    3300034: Canto 24
+    3300036: Canto 25
+    3300038: Canto 26
+    3300040: Canto 27
+    3300042: Canto 28
+    3300044: Canto 29
+    3300046: Canto 3
+    3300048: Canto 30
+    3300050: Canto 31
+    3300052: Canto 32
+    3300054: Canto 33
+    3300056: Canto 34
+    3300058: Canto 35
+    3300060: Canto 36
+    3300062: Canto 37
+    3300064: Canto 38
+    3300066: Canto 39
+    3300068: Canto 4
+    3300070: Canto 40
+    3300072: Canto 41
+    3300074: Canto 42
+    3300076: Canto 43
+    3300078: Canto 44
+    3300080: Canto 45
+    3300082: Canto 46
+    3300084: Canto 47
+    3300086: Canto 48
+    3300088: Canto 49
+    3300090: Canto 5
+    3300092: Canto 50
+    3300094: Canto 51
+    3300096: Canto 52
+    3300098: Canto 53
+    3300100: Canto 54
+    3300102: Canto 55
+    3300104: Canto 56
+    3300106: Canto 57
+    3300108: Canto 58
+    3300110: Canto 59
+    3300112: Canto 6
+    3300114: Canto 60
+    3300116: Canto 61
+    3300118: Canto 62
+    3300120: Canto 63
+    3300122: Canto 64
+    3300124: Canto 65
+    3300126: Canto 66
+    3300128: Canto 67
+    3300130: Canto 68
+    3300132: Canto 69
+    3300134: Canto 7
+    3300136: Canto 70
+    3300138: Canto 71
+    3300140: Canto 72
+    3300142: Canto 73
+    3300144: Canto 74
+    3300146: Canto 75
+    3300148: Canto 76
+    3300150: Canto 77
+    3300152: Canto 78
+    3300154: Canto 79
+    3300156: Canto 8
+    3300158: Canto 80
+    3300160: Canto 81
+    3300162: Canto 82
+    3300164: Canto 83
+    3300166: Canto 84
+    3300168: Canto 85
+    3300170: Canto 86
+    3300172: Canto 87
+    3300174: Canto 88
+    3300176: Canto 89
+    3300178: Canto 9
+    3300180: Canto 90
+    3300182: Canto2
+    3300184: Canto3
+    3300186: Canto4
+    3300188: Chao
+    3300190: Meio
+    3300192: Meio 1
+    3300194: Meio 10
+    3300196: Meio 11
+    3300198: Meio 12
+    3300200: Meio 13
+    3300202: Meio 14
+    3300204: Meio 15
+    3300206: Meio 16
+    3300208: Meio 17
+    3300210: Meio 18
+    3300212: Meio 19
+    3300214: Meio 2
+    3300216: Meio 20
+    3300218: Meio 21
+    3300220: Meio 22
+    3300222: Meio 23
+    3300224: Meio 24
+    3300226: Meio 25
+    3300228: Meio 26
+    3300230: Meio 27
+    3300232: Meio 28
+    3300234: Meio 29
+    3300236: Meio 3
+    3300238: Meio 30
+    3300240: Meio 31
+    3300242: Meio 32
+    3300244: Meio 33
+    3300246: Meio 34
+    3300248: Meio 35
+    3300250: Meio 36
+    3300252: Meio 37
+    3300254: Meio 38
+    3300256: Meio 39
+    3300258: Meio 4
+    3300260: Meio 40
+    3300262: Meio 41
+    3300264: Meio 42
+    3300266: Meio 43
+    3300268: Meio 44
+    3300270: Meio 45
+    3300272: Meio 46
+    3300274: Meio 47
+    3300276: Meio 48
+    3300278: Meio 49
+    3300280: Meio 5
+    3300282: Meio 50
+    3300284: Meio 51
+    3300286: Meio 52
+    3300288: Meio 53
+    3300290: Meio 54
+    3300292: Meio 55
+    3300294: Meio 56
+    3300296: Meio 57
+    3300298: Meio 58
+    3300300: Meio 59
+    3300302: Meio 6
+    3300304: Meio 60
+    3300306: Meio 61
+    3300308: Meio 62
+    3300310: Meio 63
+    3300312: Meio 64
+    3300314: Meio 65
+    3300316: Meio 66
+    3300318: Meio 67
+    3300320: Meio 68
+    3300322: Meio 7
+    3300324: Meio 8
+    3300326: Meio 9
+    3300328: pCube1
+    3300330: pCube2
+    3300332: polySurface279
+    3300334: polySurface286
+    3300336: polySurface287
+    3300338: polySurface288
+    3300340: polySurface289
+    3300342: polySurface290
+    3300344: polySurface291
+    3300346: polySurface292
+    3300348: polySurface293
+    3300350: polySurface294
+    3300352: Tutorial:Chao1
+    3300354: Tutorial:Chao2
+    3300356: Tutorial:Estrutura1
+    3300358: Tutorial:Estrutura2
+    3300360: Tutorial:polySurface10
+    3300362: Tutorial:polySurface11
+    3300364: Tutorial:polySurface12
+    3300366: Tutorial:polySurface14
+    3300368: Tutorial:polySurface5
+    3300370: Tutorial:polySurface6
+    3300372: Tutorial:polySurface8
+    3300374: Tutorial:polySurface9
+    3300376: Tutorial:Portao
+    3300378: Tutorial:PortasDireita
+    3300380: Tutorial:PortasEsquerda
+    3300382: Tutorial:Teto
+    4300000: Chao
+    4300002: Canto
+    4300004: Meio
+    4300006: Canto
+    4300008: pCube1
+    4300010: pCube2
+    4300012: Canto
+    4300014: Meio
+    4300016: Canto
+    4300018: Meio
+    4300020: Canto
+    4300022: Meio
+    4300024: Canto
+    4300026: Meio
+    4300028: Canto
+    4300030: Meio
+    4300032: Canto
+    4300034: Meio
+    4300036: Canto
+    4300038: Meio
+    4300040: Canto
+    4300042: Meio
+    4300044: Canto
+    4300046: Meio
+    4300048: Canto
+    4300050: Meio
+    4300052: Canto
+    4300054: Meio
+    4300056: Canto
+    4300058: Meio
+    4300060: Canto
+    4300062: Meio
+    4300064: Canto
+    4300066: Meio
+    4300068: Canto
+    4300070: Meio
+    4300072: Canto
+    4300074: Meio
+    4300076: Canto
+    4300078: Meio
+    4300080: Canto
+    4300082: Meio
+    4300084: Canto
+    4300086: Meio
+    4300088: Meio
+    4300090: Canto
+    4300092: Meio
+    4300094: Canto
+    4300096: Canto2
+    4300098: Canto
+    4300100: Canto
+    4300102: Canto
+    4300104: Canto
+    4300106: Canto
+    4300108: Canto
+    4300110: Canto
+    4300112: Canto
+    4300114: Canto
+    4300116: Canto
+    4300118: Canto
+    4300120: Canto
+    4300122: Canto
+    4300124: Canto
+    4300126: Canto
+    4300128: Canto
+    4300130: Canto
+    4300132: Canto
+    4300134: Canto
+    4300136: Canto
+    4300138: Canto
+    4300140: Canto
+    4300142: Canto
+    4300144: Canto3
+    4300146: Meio
+    4300148: Canto
+    4300150: Meio
+    4300152: Canto
+    4300154: Meio
+    4300156: Canto
+    4300158: Meio
+    4300160: Canto
+    4300162: Meio
+    4300164: Canto
+    4300166: Meio
+    4300168: Canto
+    4300170: Meio
+    4300172: Canto
+    4300174: Meio
+    4300176: Canto
+    4300178: Meio
+    4300180: Canto
+    4300182: Meio
+    4300184: Canto
+    4300186: Meio
+    4300188: Canto
+    4300190: Meio
+    4300192: Canto
+    4300194: Meio
+    4300196: Canto
+    4300198: Meio
+    4300200: Canto
+    4300202: Meio
+    4300204: Canto
+    4300206: Meio
+    4300208: Canto
+    4300210: Meio
+    4300212: Canto
+    4300214: Meio
+    4300216: Canto
+    4300218: Meio
+    4300220: Canto
+    4300222: Meio
+    4300224: Canto
+    4300226: Meio
+    4300228: Meio
+    4300230: Canto
+    4300232: Meio
+    4300234: Canto
+    4300236: Meio
+    4300238: Canto
+    4300240: Meio
+    4300242: Canto
+    4300244: Meio
+    4300246: Canto
+    4300248: Meio
+    4300250: Canto
+    4300252: Meio
+    4300254: Canto
+    4300256: Meio
+    4300258: Canto
+    4300260: Meio
+    4300262: Canto
+    4300264: Meio
+    4300266: Canto
+    4300268: Meio
+    4300270: Canto
+    4300272: Meio
+    4300274: Canto
+    4300276: Meio
+    4300278: Canto
+    4300280: Meio
+    4300282: Canto
+    4300284: Meio
+    4300286: Canto
+    4300288: Meio
+    4300290: Canto
+    4300292: Meio
+    4300294: Canto
+    4300296: Meio
+    4300298: Canto
+    4300300: Meio
+    4300302: Canto
+    4300304: Meio
+    4300306: Canto
+    4300308: Meio
+    4300310: Canto
+    4300312: Meio
+    4300314: Canto
+    4300316: Meio
+    4300318: Canto
+    4300320: Meio
+    4300322: Canto
+    4300324: Meio
+    4300326: Canto
+    4300328: Meio
+    4300330: polySurface279
+    4300332: polySurface286
+    4300334: Canto4
+    4300336: polySurface287
+    4300338: polySurface288
+    4300340: polySurface289
+    4300342: polySurface290
+    4300344: polySurface291
+    4300346: polySurface292
+    4300348: polySurface293
+    4300350: polySurface294
+    4300352: Tutorial:polySurface5
+    4300354: Tutorial:polySurface6
+    4300356: Tutorial:polySurface8
+    4300358: Tutorial:polySurface9
+    4300360: Tutorial:polySurface10
+    4300362: Tutorial:polySurface11
+    4300364: Tutorial:polySurface12
+    4300366: Tutorial:polySurface14
+    4300368: Tutorial:Teto
+    4300370: Tutorial:PortasEsquerda
+    4300372: Tutorial:PortasDireita
+    4300374: Tutorial:Portao
+    4300376: Tutorial:Chao1
+    4300378: Tutorial:Chao2
+    4300380: Tutorial:Estrutura2
+    4300382: Tutorial:Estrutura1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 60
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

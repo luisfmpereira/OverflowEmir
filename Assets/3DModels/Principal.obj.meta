@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 772bc83c5d9b1284791b788a1c6aba84
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: EscadaDir_0
+    100002: EscadaEsq_0
+    100004: MuroDir2_0
+    100006: MuroDir2_1
+    100008: MuroDir3_0
+    100010: MuroDir3_2
+    100012: MuroEsq2_0
+    100014: MuroEsq2_1
+    100016: MuroEsq3_0
+    100018: MuroEsq3_2
+    100020: //RootNode
+    100022: Principal(Mirror)_0
+    100024: Principal(Mirror)_1
+    100026: Principal(Mirror)_2
+    100028: Principal_0
+    100030: Principal_1
+    100032: Principal_2
+    100034: Teto_1
+    400000: EscadaDir_0
+    400002: EscadaEsq_0
+    400004: MuroDir2_0
+    400006: MuroDir2_1
+    400008: MuroDir3_0
+    400010: MuroDir3_2
+    400012: MuroEsq2_0
+    400014: MuroEsq2_1
+    400016: MuroEsq3_0
+    400018: MuroEsq3_2
+    400020: //RootNode
+    400022: Principal(Mirror)_0
+    400024: Principal(Mirror)_1
+    400026: Principal(Mirror)_2
+    400028: Principal_0
+    400030: Principal_1
+    400032: Principal_2
+    400034: Teto_1
+    2100000: EscadaDir_0Mat
+    2100002: EscadaEsq_0Mat
+    2100004: MuroDir2_0Mat
+    2100006: MuroDir2_1Mat
+    2100008: MuroDir3_0Mat
+    2100010: MuroDir3_2Mat
+    2100012: MuroEsq2_0Mat
+    2100014: MuroEsq2_1Mat
+    2100016: MuroEsq3_0Mat
+    2100018: MuroEsq3_2Mat
+    2100020: Principal(Mirror)_0Mat
+    2100022: Principal(Mirror)_1Mat
+    2100024: Principal(Mirror)_2Mat
+    2100026: Principal_0Mat
+    2100028: Principal_1Mat
+    2100030: Principal_2Mat
+    2100032: Teto_1Mat
+    2300000: EscadaDir_0
+    2300002: EscadaEsq_0
+    2300004: MuroDir2_0
+    2300006: MuroDir2_1
+    2300008: MuroDir3_0
+    2300010: MuroDir3_2
+    2300012: MuroEsq2_0
+    2300014: MuroEsq2_1
+    2300016: MuroEsq3_0
+    2300018: MuroEsq3_2
+    2300020: Principal(Mirror)_0
+    2300022: Principal(Mirror)_1
+    2300024: Principal(Mirror)_2
+    2300026: Principal_0
+    2300028: Principal_1
+    2300030: Principal_2
+    2300032: Teto_1
+    3300000: EscadaDir_0
+    3300002: EscadaEsq_0
+    3300004: MuroDir2_0
+    3300006: MuroDir2_1
+    3300008: MuroDir3_0
+    3300010: MuroDir3_2
+    3300012: MuroEsq2_0
+    3300014: MuroEsq2_1
+    3300016: MuroEsq3_0
+    3300018: MuroEsq3_2
+    3300020: Principal(Mirror)_0
+    3300022: Principal(Mirror)_1
+    3300024: Principal(Mirror)_2
+    3300026: Principal_0
+    3300028: Principal_1
+    3300030: Principal_2
+    3300032: Teto_1
+    4300000: EscadaDir_0
+    4300002: EscadaEsq_0
+    4300004: MuroDir2_0
+    4300006: MuroDir2_1
+    4300008: MuroDir3_0
+    4300010: MuroDir3_2
+    4300012: MuroEsq2_0
+    4300014: MuroEsq2_1
+    4300016: MuroEsq3_0
+    4300018: MuroEsq3_2
+    4300020: Principal(Mirror)_0
+    4300022: Principal(Mirror)_1
+    4300024: Principal(Mirror)_2
+    4300026: Principal_0
+    4300028: Principal_1
+    4300030: Principal_2
+    4300032: Teto_1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

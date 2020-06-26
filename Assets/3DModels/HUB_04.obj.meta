@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 2f3e2e23aae379547a98da32ab6f576f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Chao
+    100002: ChaoETeto
+    100004: ConstrucaoCima
+    100006: DetalheCima
+    100008: //RootNode
+    100010: Meio
+    100012: Paredes
+    400000: Chao
+    400002: ChaoETeto
+    400004: ConstrucaoCima
+    400006: DetalheCima
+    400008: //RootNode
+    400010: Meio
+    400012: Paredes
+    2100000: ChaoMat
+    2100002: ChaoETetoMat
+    2100004: ConstrucaoCimaMat
+    2100006: DetalheCimaMat
+    2100008: MeioMat
+    2100010: ParedesMat
+    2300000: Chao
+    2300002: ChaoETeto
+    2300004: ConstrucaoCima
+    2300006: DetalheCima
+    2300008: Meio
+    2300010: Paredes
+    3300000: Chao
+    3300002: ChaoETeto
+    3300004: ConstrucaoCima
+    3300006: DetalheCima
+    3300008: Meio
+    3300010: Paredes
+    4300000: Chao
+    4300002: ChaoETeto
+    4300004: ConstrucaoCima
+    4300006: DetalheCima
+    4300008: Meio
+    4300010: Paredes
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.6
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: a6754999d36d4204e81fb18c081dcae0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BolaPilares
+    100002: Chao
+    100004: ChaoETeto
+    100006: Constru__o_Estrutura
+    100008: ConstrucaoCima
+    100010: DetalheBaixo1
+    100012: DetalheCima
+    100014: Estrutura_Chao
+    100016: Estrutura_Teto
+    100018: //RootNode
+    100020: ParedePilares1_polySurface1575
+    100022: ParedePilares1_polySurface1576
+    100024: ParedePilares1_polySurface1577
+    100026: Paredes
+    100028: Pilares1
+    100030: polySurface1578_ParedePilares1
+    100032: polySurface1635
+    400000: BolaPilares
+    400002: Chao
+    400004: ChaoETeto
+    400006: Constru__o_Estrutura
+    400008: ConstrucaoCima
+    400010: DetalheBaixo1
+    400012: DetalheCima
+    400014: Estrutura_Chao
+    400016: Estrutura_Teto
+    400018: //RootNode
+    400020: ParedePilares1_polySurface1575
+    400022: ParedePilares1_polySurface1576
+    400024: ParedePilares1_polySurface1577
+    400026: Paredes
+    400028: Pilares1
+    400030: polySurface1578_ParedePilares1
+    400032: polySurface1635
+    2100000: BolaPilaresMat
+    2100002: ChaoMat
+    2100004: ChaoETetoMat
+    2100006: ConstrucaoCimaMat
+    2100008: Constru__o_EstruturaMat
+    2100010: DetalheBaixo1Mat
+    2100012: DetalheCimaMat
+    2100014: Estrutura_ChaoMat
+    2100016: Estrutura_TetoMat
+    2100018: ParedePilares1_polySurface1575Mat
+    2100020: ParedePilares1_polySurface1576Mat
+    2100022: ParedePilares1_polySurface1577Mat
+    2100024: ParedesMat
+    2100026: Pilares1Mat
+    2100028: polySurface1578_ParedePilares1Mat
+    2100030: polySurface1635Mat
+    2300000: BolaPilares
+    2300002: Chao
+    2300004: ChaoETeto
+    2300006: Constru__o_Estrutura
+    2300008: ConstrucaoCima
+    2300010: DetalheBaixo1
+    2300012: DetalheCima
+    2300014: Estrutura_Chao
+    2300016: Estrutura_Teto
+    2300018: ParedePilares1_polySurface1575
+    2300020: ParedePilares1_polySurface1576
+    2300022: ParedePilares1_polySurface1577
+    2300024: Paredes
+    2300026: Pilares1
+    2300028: polySurface1578_ParedePilares1
+    2300030: polySurface1635
+    3300000: BolaPilares
+    3300002: Chao
+    3300004: ChaoETeto
+    3300006: Constru__o_Estrutura
+    3300008: ConstrucaoCima
+    3300010: DetalheBaixo1
+    3300012: DetalheCima
+    3300014: Estrutura_Chao
+    3300016: Estrutura_Teto
+    3300018: ParedePilares1_polySurface1575
+    3300020: ParedePilares1_polySurface1576
+    3300022: ParedePilares1_polySurface1577
+    3300024: Paredes
+    3300026: Pilares1
+    3300028: polySurface1578_ParedePilares1
+    3300030: polySurface1635
+    4300000: BolaPilares
+    4300002: Chao
+    4300004: ChaoETeto
+    4300006: ConstrucaoCima
+    4300008: Constru__o_Estrutura
+    4300010: DetalheBaixo1
+    4300012: DetalheCima
+    4300014: Estrutura_Chao
+    4300016: Estrutura_Teto
+    4300018: ParedePilares1_polySurface1575
+    4300020: ParedePilares1_polySurface1576
+    4300022: ParedePilares1_polySurface1577
+    4300024: Paredes
+    4300026: Pilares1
+    4300028: polySurface1578_ParedePilares1
+    4300030: polySurface1635
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.6
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
